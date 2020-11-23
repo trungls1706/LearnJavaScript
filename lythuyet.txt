@@ -1,0 +1,25 @@
+ĐỒNG BỘ LÀ GÌ
+- Các hành động chạy từ trên xuống
+- Hành động này chạy xong, mới đến hành động khác 
+
+BẤT ĐỒNG BỘ LÀ GÌ
+- Hành động chưa chạy xong, đã bắt đồng hành động thứ 2
+- callback function bất đồng bộ chỉ thực thi, sau khi tất cả các hành động đồng bộ hoàn tất
+
+CALLBACK FUNCTION
+- Là thao tác được gọi, sau khi tác vụ bất đồng bộ thực hiện xong
+- Tham số của callback function phụ thuộc vào người viết ra nó
+
+FIRST-CLASS FUNCTIONS
+- Trong javaScript hàm là một kiểu đặc biệc của đối tượng
+
+HIGHER-ORDER-FUNCTION
+- Là hàm nhận một hàm dưới dạng đối số hoặc trả về dưới dạng đầu ra
+https://viblo.asia/p/tim-hieu-ve-higher-order-functions-trong-javascript-yMnKMY2mK7P
+
+
+Phân biệt object, class 
+4 thuộc tính của OOP
+abstract class, interface
+thuật toán: array, linkedList, stack, queue, hastable, tree
+
